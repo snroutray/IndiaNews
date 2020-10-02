@@ -11,6 +11,7 @@
 - Realtime live data based on Latest News Api from - https://newsapi.org/
 - Dark mode toggle (will be added soon)
 - Saves your time with short news
+- No fake news
 
 
 
